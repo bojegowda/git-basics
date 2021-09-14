@@ -1,1 +1,4 @@
 clone repo = git clone git-url
+
+//code push
+clone use git clone -m "description" 
